@@ -17,9 +17,8 @@ Optimizing Performance: Learning techniques to optimize website performance, inc
 
 # How to Use
 Clone the Repository: Clone this repository to your local machine using the following command:
+git clone https://github.com/JuhiPathak23/web-development.git
 
-# Copy code
-git clone https://github.com/your-username/web-development.git
 Explore Projects: Navigate through different projects within the repository to see examples of frontend development using various technologies.
 
 Contribute: Feel free to contribute by suggesting improvements, fixing bugs, or adding new projects. Pull requests are welcome!
